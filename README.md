@@ -1,9 +1,25 @@
-### Hi there,Vishal here 👋
-- 🔭 I’m currently working on Android Development.
-- 🌱 I’m currently learning kotlin.
----
-### Skills
-![IMG-20210503-WA0040](https://user-images.githubusercontent.com/72990047/116868984-6e5c9880-ac2d-11eb-92d3-31cca5f6ee14.jpg)
-![IMG-20210503-WA0041](https://user-images.githubusercontent.com/72990047/116868991-7288b600-ac2d-11eb-8d30-96d8bc9fa361.jpg)
-![IMG-20210503-WA0046 1](https://user-images.githubusercontent.com/72990047/116869563-93054000-ac2e-11eb-90ea-7b00f83a5d25.jpg)
-![IMG-20210503-WA0042](https://user-images.githubusercontent.com/72990047/116869005-7b798780-ac2d-11eb-8e5f-77fccc9bb0aa.jpg)
+# Hi there, I'm Vishal Kotak! 👋
+
+## 🚀 About Me
+
+I'm an Android Engineer with experience in building high-performance applications, specializing in **AOSP development and system-level customizations**. I have a deep understanding of **architecting scalable Android applications using MVVM, Clean Architecture, and best practices in modern Android development**.
+
+## 🛠️ Tech Stack
+
+- **Languages:** Kotlin, Java
+- **Android Development & Tools:** Jetpack Compose, MVVM, Clean Architecture, Dagger-Hilt, WorkManager, Retrofit, RoomDB, Firebase SDK, Espresso, UI Testing, Navigation Component, Coroutines, Kotlin-Flows ,Multi-Module Architecture
+- **AOSP & System-Level Development:** Android Framework Customizations
+
+## 📚 Currently Exploring
+
+- **Jetpack Compose** for modern UI development
+- **Android testing frameworks** like Espresso
+- **Kotlin Multiplatform Mobile**
+
+## 📫 Connect with Me
+
+- **GitHub:** [kotakvishal](https://github.com/kotakvishal)
+- **LinkedIn:** [Vishal Kotak](https://www.linkedin.com/in/vishalkotak03/)
+
+Let's build something awesome together! 🚀
+
