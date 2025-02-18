@@ -18,7 +18,6 @@ I'm an Android Engineer with experience in building high-performance application
 
 ## 📫 Connect with Me
 
-- **GitHub:** [kotakvishal](https://github.com/kotakvishal)
 - **LinkedIn:** [Vishal Kotak](https://www.linkedin.com/in/vishalkotak03/)
 
 Let's build something awesome together! 🚀
