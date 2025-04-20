@@ -1,24 +1,40 @@
-# Hi there, I'm Vishal Kotak! 👋
+# 👋 Hi, I'm Vishal Kotak
 
-## 🚀 About Me
+🎯 **Android Engineer | AOSP Developer | Kotlin Enthusiast**
 
-I'm an Android Engineer with experience in building high-performance applications, specializing in **AOSP development and system-level customizations**. I have a deep understanding of **architecting scalable Android applications using MVVM, Clean Architecture, and best practices in modern Android development**.
+I'm an experienced Android Engineer with a strong foundation in **AOSP (Android Open Source Project)** and system-level customizations. I specialize in building high-performance, scalable, and maintainable Android applications using **MVVM**, **Clean Architecture**, and modern Android development best practices.
 
-## 🛠️ Tech Stack
+---
 
-- **Languages:** Kotlin, Java
-- **Android Development & Tools:** Jetpack Compose, MVVM, Clean Architecture, Dagger-Hilt, WorkManager, Retrofit, RoomDB, Firebase SDK, Espresso, UI Testing, Navigation Component, Coroutines, Kotlin-Flows ,Multi-Module Architecture
-- **AOSP & System-Level Development:** Android Framework Customizations
+## 🔥 Skills
 
-## 📚 Currently Exploring
+**💻 Languages:** `Kotlin`, `Java`  
+**🏗 Architecture & Design:** `MVVM`, `Clean Architecture`, `SOLID`, `Dependency Injection (Hilt · Dagger)`  
+**🎨 UI & Composition:** `Jetpack Compose`, `XML-based UI`, `Material Design 3`, `Custom Views`  
+**🚀 Jetpack Ecosystem:** `ViewModel`, `LiveData`/`StateFlow`, `Navigation Component`, `Paging 3`, `WorkManager`, `DataStore`  
+**🌐 Networking & Backend:** `Retrofit`, `Ktor`, `GraphQL`, `Firebase (Firestore, Realtime DB, FCM)`  
+**🔄 Concurrency & Background:** `Coroutines`, `Flow`, `Thread Management`  
+**🛠 Testing & QA:** `Espresso`, `JUnit`, `LeakCanary`, `Android Profiler`  
+**🔧 System-Level & AOSP:** `Framework Customizations`, `System UI Enhancements`, `Launcher Development`  
+**🔗 Version Control:** `Git`, `GitHub`
 
-- **Jetpack Compose** for modern UI development
-- **Android testing frameworks** like Espresso
-- **Kotlin Multiplatform Mobile**
+---
 
-## 📫 Connect with Me
+## 🚀 Currently Exploring
+- Jetpack Compose 🧩  
+- Android Testing Frameworks (Espresso · JUnit) ✅  
+- Kotlin Multiplatform Mobile (KMM) 🌐  
+- Server-Driven UI 📡  
 
-- **LinkedIn:** [Vishal Kotak](https://www.linkedin.com/in/vishalkotak03/)
+---
 
-Let's build something awesome together! 🚀
+## 📫 Let’s Connect
+- **LinkedIn:** [vishalkotak03](https://www.linkedin.com/in/vishalkotak03/)  
+- **Email:** kotakvishal2001@gmail.com  
 
+---
+
+> _“Lines of code are not destinations but seeds of innovation; true mastery lies in cultivating efficient, scalable systems that flourish and endure.”_  
+> — Vishal Kotak
+
+Let’s build something **amazing** together! 🚀
