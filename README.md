@@ -30,7 +30,7 @@ I'm an experienced Android Engineer with a strong foundation in **AOSP (Android 
 
 ## 📫 Let’s Connect
 - **LinkedIn:** [vishalkotak03](https://www.linkedin.com/in/vishalkotak03/)  
-- **Email:** kotakvishal2001@gmail.com  
+- **Email:** connect.vishalkotak@gmail.com
 
 ---
 
